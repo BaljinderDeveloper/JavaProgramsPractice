@@ -20,6 +20,7 @@ public class ReadWriteTxtFile {
             System.out.println(line);
         }
         read.close();
+        file.close();
     }
     public void writeTxt() throws IOException {
         File file = new File("readwrite.txt");
@@ -31,5 +32,6 @@ public class ReadWriteTxtFile {
         pw.println("Line 3");
 
         pw.close();
+        fw.close();
     }
 }
