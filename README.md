@@ -1,2 +1,2 @@
 # JavaPractice
-Contain Simple Java questions for practice
+Contains Simple Java questions for practice
