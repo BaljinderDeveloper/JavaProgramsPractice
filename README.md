@@ -1,2 +1,2 @@
-# JavaPrograms1
-Contain Simple Java Interview questions
+# JavaPractice
+Contain Simple Java questions for practice
